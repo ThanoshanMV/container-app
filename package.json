@@ -1,0 +1,22 @@
+{
+  "name": "@meiko/container",
+  "version": "1.0.0",
+  "description": "Entry point app to meiko",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThanoshanMV/container-app.git"
+  },
+  "keywords": [
+    "meiko"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThanoshanMV/container-app/issues"
+  },
+  "homepage": "https://github.com/ThanoshanMV/container-app#readme"
+}

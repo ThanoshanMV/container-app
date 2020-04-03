@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ThanoshanMV/container-app.git"
   },
+  "dependencies": {
+    "meiko-angular": "git+https://github.com/99xt-incubator/meiko-angular.git#master"
+  },
   "keywords": [
     "meiko"
   ],

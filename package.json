@@ -1,7 +1,7 @@
 {
-  "name": "@meiko/container",
+  "name": "meiko",
   "version": "1.0.0",
-  "description": "Entry point app to meiko",
+  "description": "A micro-frontend implementation",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,16 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/ThanoshanMV/container-app.git"
   },
-  "dependencies": {
-    "meiko-angular": "git+https://github.com/99xt-incubator/meiko-angular.git#master"
-  },
-  "keywords": [
-    "meiko"
-  ],
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ThanoshanMV/container-app/issues"
   },
-  "homepage": "https://github.com/ThanoshanMV/container-app#readme"
+  "homepage": "https://github.com/ThanoshanMV/container-app#readme",
+  "dependencies": {
+    "meiko-angular": "^1.0.0-alpha.0"
+  }
 }

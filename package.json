@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ThanoshanMV/container-app#readme",
   "dependencies": {
+    "awsmeiko-angular": "https://awsmeikobucketsl.s3.ap-south-1.amazonaws.com/awsmeiko-angular-1.0.0.tgz",
     "meiko-angular": "^1.0.0-alpha.0"
   }
 }
